@@ -15,7 +15,7 @@ GO
 Create Table bronze.crm_cust_info (
 	cst_id INT,
 	cst_key nvarchar(50),
-	cst_firtsname nvarchar(50),
+	cst_firstname nvarchar(50),
 	cst_lastname nvarchar(50),
 	cst_marital_status nvarchar(50),
 	cst_gndr nvarchar(50),
